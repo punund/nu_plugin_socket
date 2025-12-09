@@ -1,0 +1,23 @@
+# Ignore compiled artifacts and build outputs
+/target/
+
+/Cargo.lock
+
+# Ignore editor-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local environment files (often used for secrets or local overrides)
+.env
+.env.*
+
+# Ignore test coverage reports
+/coverage/
+*.profdata
+*.profraw
