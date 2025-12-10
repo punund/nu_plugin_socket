@@ -1,5 +1,6 @@
 # Ignore compiled artifacts and build outputs
 /target/
+/dist/
 
 /Cargo.lock
 
