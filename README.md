@@ -1,5 +1,8 @@
 # nu_plugin_socket
 
+[![Crates.io](https://img.shields.io/crates/v/nu_plugin_socket.svg)](https://crates.io/crates/nu_plugin_socket)
+[![License](https://img.shields.io/crates/l/nu_plugin_socket.svg)](https://github.com/punund/nu_plugin_socket/blob/master/LICENSE)
+
 A Nushell plugin for low-level TCP and UDP socket communication.
 
 This plugin provides commands to create network clients and servers directly within Nushell, designed to integrate seamlessly with its pipelines and structured data. It serves as a Nu-idiomatic alternative to traditional tools like `netcat`, allowing for powerful, self-contained network scripting.
